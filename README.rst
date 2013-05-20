@@ -1,4 +1,11 @@
 ==================================
+MSP430 Version of Gamecube-N64-Controller code
+==================================
+Hey there.. this is my attempt at porting the efforts of brownan's GC->N64 controller adapting code over to the MSP430
+
+
+
+==================================
 N64 to Gamecube Controller Adapter
 ==================================
 
